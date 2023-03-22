@@ -1,0 +1,31 @@
+name: Build README
+
+on:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+      - name: Set up node
+        uses: actions/setup-node@v3
+        with:
+          node-version: lts/*
+      - name: NPM install
+        run: npm install
+      - name: Build README updater
+        run: npm run build
+      - name: Run README updater
+        run: node ./lib/index.js $PWD
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "README-bot"
+          git add .
+          git commit -m "docs(readme): updated to include latest til content" || exit 0
+          git push
