@@ -28,7 +28,7 @@ _1 TIL and counting..._
 ---
 
 
-## How to Use
+## How to add articles
 
 Steps to follow:
 
