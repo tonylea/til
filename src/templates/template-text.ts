@@ -6,7 +6,7 @@ general enthusiast of devops.
 I got the idea from many, many repos in GitHub doing the same thing. There are too many list.
 Seriously, just search for 'TIL' and you'll see.`;
 
-const footer: string = `## How to Use
+const footer: string = `## How to add articles
 
 Steps to follow:
 
