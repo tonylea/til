@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "lib": [
+      "ES6",
+      "ES2015",
+      "ESNext"
+    ],
+    "outDir": "lib",
+    "rootDir": "src",
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "importHelpers": true,
+    "removeComments": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true, /* Skip type checking all .d.ts files. */
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules",
+    "lib",
+    "test"
+  ]
+}

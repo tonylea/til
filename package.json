@@ -1,0 +1,36 @@
+{
+  "name": "til",
+  "version": "1.0.0",
+  "description": "Today I Learned",
+  "main": "./lib/index.js",
+  "bin": {
+    "update-readme": "./bin/update-readme"
+  },
+  "scripts": {
+    "clean:all": "rm -rf ./node_modules ./package-lock.json ./lib",
+    "clean:some": "rm -rf ./lib",
+    "build": "npm run clean:some && tsc -p .",
+    "update-readme": ". ./bin/update-readme",
+    "prepare": "husky install",
+    "refresh": "npm run clean:all && npm install",
+    "update": "npm run upgrade",
+    "upgrade": "ncu -u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonylea/tonylea.git"
+  },
+  "author": "Tony Lea",
+  "license": "ISC",
+  "homepage": "https://github.com/tonylea/tonylea#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.4",
+    "@commitlint/config-conventional": "^17.4.4",
+    "@types/node": "^18.15.5",
+    "husky": "^8.0.3",
+    "npm-check-updates": "^16.7.13",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.0",
+    "typescript": "^5.0.2"
+  }
+}
