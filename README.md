@@ -29,7 +29,7 @@ _2 TILs and counting..._
 ### Vagrant
 
 
-- [# Installing a Vagrant box](./docs/vagrant/Vagrant and VMWare Fusion 13 Player on Apple Silicon.md)
+- [# Installing a Vagrant box](./docs/vagrant/vagrant-and-vmware-fusion-13-player-on-apple-silicon.md)
 
 
 ---
