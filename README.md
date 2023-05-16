@@ -7,13 +7,14 @@ I got the idea from many, many repos in GitHub doing the same thing. There are t
 Seriously, just search for 'TIL' and you'll see.
 
 
-_1 TIL and counting..._
+_2 TILs and counting..._
 
 
 ## Categories
 
 
 - [Node](#node)
+- [Vagrant](#vagrant)
 
 
 ---
@@ -23,6 +24,12 @@ _1 TIL and counting..._
 
 
 - [How to pass command line arguments to Node.js process](./docs/node/pass-command-line-agruments-to-node.md)
+
+
+### Vagrant
+
+
+- [# Installing a Vagrant box](./docs/vagrant/Vagrant and VMWare Fusion 13 Player on Apple Silicon.md)
 
 
 ---
