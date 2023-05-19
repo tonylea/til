@@ -1,4 +1,4 @@
-# How to authenticate sudo with Touch ID
+# How to authenticate sudo using Touch ID
 
 In Terminal, open the `/etc/pam.d/sudo` file as root and edit look like this:
 
