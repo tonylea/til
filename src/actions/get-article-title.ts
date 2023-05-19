@@ -9,6 +9,7 @@ export async function getArticleTitle(filepath: string): Promise<string> {
     const trimmedLine = line.trim();
     if (trimmedLine.startsWith("# ")) {
       title = trimmedLine.substring(2).trim();
+      break;
     }
   }
   return title;
