@@ -7,17 +7,24 @@ I got the idea from many, many repos in GitHub doing the same thing. There are t
 Seriously, just search for 'TIL' and you'll see.
 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 
 ## Categories
 
 
+- [Macos](#macos)
 - [Node](#node)
 - [Vagrant](#vagrant)
 
 
 ---
+
+
+### Macos
+
+
+- [sudo: auth account password session](./docs/macos/authenticate-sudo-with-touch-id.md)
 
 
 ### Node
