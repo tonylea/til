@@ -24,7 +24,7 @@ _3 TILs and counting..._
 ### Macos
 
 
-- [sudo: auth account password session](./docs/macos/authenticate-sudo-with-touch-id.md)
+- [sudo: auth account password session](./docs/macos/how-to-authenticate-sudo-using-touch-id.md)
 
 
 ### Node
