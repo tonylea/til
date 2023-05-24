@@ -7,18 +7,25 @@ I got the idea from many, many repos in GitHub doing the same thing. There are t
 Seriously, just search for 'TIL' and you'll see.
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 
 ## Categories
 
 
+- [Git](#git)
 - [Macos](#macos)
 - [Node](#node)
 - [Vagrant](#vagrant)
 
 
 ---
+
+
+### Git
+
+
+- [How to rename 'master' branch to 'main'](./docs/git/how-to-rename-master-branch-to-main.md)
 
 
 ### Macos
