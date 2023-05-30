@@ -7,7 +7,7 @@ I got the idea from many, many repos in GitHub doing the same thing. There are t
 Seriously, just search for 'TIL' and you'll see.
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 
 ## Categories
@@ -15,6 +15,7 @@ _4 TILs and counting..._
 
 - [Git](#git)
 - [Macos](#macos)
+- [Misc](#misc)
 - [Node](#node)
 - [Vagrant](#vagrant)
 
@@ -32,6 +33,12 @@ _4 TILs and counting..._
 
 
 - [How to authenticate sudo using Touch ID](./docs/macos/how-to-authenticate-sudo-using-touch-id.md)
+
+
+### Misc
+
+
+- [Audible DRM removal](./docs/misc/audible-drm-removal.md)
 
 
 ### Node
