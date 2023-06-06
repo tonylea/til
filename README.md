@@ -7,7 +7,7 @@ I got the idea from many, many repos in GitHub doing the same thing. There are t
 Seriously, just search for 'TIL' and you'll see.
 
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 
 ## Categories
@@ -26,6 +26,7 @@ _5 TILs and counting..._
 ### Git
 
 
+- [Automatically set the upstream on branch creation](./docs/git/automatically-set-upstream-branch.md)
 - [How to rename 'master' branch to 'main'](./docs/git/how-to-rename-master-branch-to-main.md)
 
 
