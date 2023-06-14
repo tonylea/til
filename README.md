@@ -7,7 +7,7 @@ I got the idea from many, many repos in GitHub doing the same thing. There are t
 Seriously, just search for 'TIL' and you'll see.
 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 
 ## Categories
@@ -17,6 +17,7 @@ _6 TILs and counting..._
 - [Macos](#macos)
 - [Misc](#misc)
 - [Node](#node)
+- [Productivity](#productivity)
 - [Vagrant](#vagrant)
 
 
@@ -46,6 +47,12 @@ _6 TILs and counting..._
 
 
 - [How to pass command line arguments to Node.js process](./docs/node/pass-command-line-agruments-to-node.md)
+
+
+### Productivity
+
+
+- [Get the Instapaper Safari Extension working](./docs/productivity/instapaper-safari-extension.md)
 
 
 ### Vagrant
