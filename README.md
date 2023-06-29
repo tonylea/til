@@ -7,12 +7,13 @@ I got the idea from many, many repos in GitHub doing the same thing. There are t
 Seriously, just search for 'TIL' and you'll see.
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 
 ## Categories
 
 
+- [Ansible](#ansible)
 - [Git](#git)
 - [Macos](#macos)
 - [Misc](#misc)
@@ -22,6 +23,12 @@ _7 TILs and counting..._
 
 
 ---
+
+
+### Ansible
+
+
+- [Create scaffolding for a Ansible Role project with Molecule testing](./docs/ansible/create-scaffolding-for-ansible-role-project.md)
 
 
 ### Git
